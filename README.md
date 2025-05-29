@@ -1,6 +1,6 @@
 # Organization Event & Member Management Platform
 
-## Short Description
+## Description
 
 A web-based platform designed to streamline event and member management for an organization. The system provides secure administrative tools for managing events and members.
 
